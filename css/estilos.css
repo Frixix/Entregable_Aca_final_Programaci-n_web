@@ -1,0 +1,105 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COLORES */
+:root {
+    --negro: #0A0A0A;
+    --rojo: #B11226;
+    --azul: #111827;
+    --blanco: #FFFFFF;
+    --gris: #9CA3AF;
+}
+
+
+/* GENERAL */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--negro);
+    color: var(--blanco);
+}
+
+/* NAVBAR */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 60px;
+    background-color: rgba(17, 24, 39, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(223, 0, 0, 0.05);
+}
+
+.logo {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    letter-spacing: 3px;
+    color: var(--rojo);
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: var(--blanco);
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    color: var(--rojo);
+}
+
+/* HERO */
+.hero {
+    height: 90vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url('../img/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero-text h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+
+.hero-text p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: var(--rojo);
+    padding: 15px 40px;
+    text-decoration: none;
+    color: var(--blanco);
+    font-weight: 600;
+    border-radius: 50px;
+    transition: all 0.4s ease;
+    letter-spacing: 1px;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(177, 18, 38, 0.4);
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: var(--azul);
+}
