@@ -12,7 +12,12 @@
 <header>
     <nav class="navbar">
         <h1 class="logo">FRIX</h1>
-        <ul class="menu">
+
+        <div class="hamburguesa" id="hamburguesa">
+            ☰
+        </div>
+
+        <ul class="menu" id="menu">
             <li><a href="index.html">Inicio</a></li>
             <li><a href="nosotros.html">Nosotros</a></li>
             <li><a href="productos.html">Productos</a></li>
@@ -57,6 +62,13 @@
 <footer>
     <p>© 2026 FRIX - Todos los derechos reservados</p>
 </footer>
+    <script>
+        const hamburguesa = document.getElementById("hamburguesa");
+        const menu = document.getElementById("menu");
 
+        hamburguesa.addEventListener("click", () => {
+            menu.classList.toggle("activo");
+        });
+    </script>
 </body>
 </html>
