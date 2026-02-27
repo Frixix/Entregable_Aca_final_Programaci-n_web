@@ -1,20 +1,41 @@
 # FRIX - Tienda de Ropa Urbana Premium
 
-## Descripción
+## 📌 Descripción del Proyecto
 
 FRIX es una página web desarrollada como proyecto académico para la asignatura de Programación Web. 
-El objetivo del proyecto es diseñar una tienda de ropa urbana premium utilizando HTML y CSS, 
-implementando múltiples vistas, diseño responsive y una interfaz moderna.
+El sitio representa una tienda de ropa urbana premium con identidad moderna, minimalista y deportiva.
 
-## Tecnologías Utilizadas
+El proyecto fue desarrollado utilizando HTML5 y CSS3, implementando diseño responsive, animaciones, 
+navegación entre múltiples vistas y una estructura organizada por secciones.
+
+---
+
+## 🎯 Objetivo del Proyecto
+
+Diseñar y desarrollar una página web funcional que represente una tienda de ropa urbana, 
+cumpliendo con los requisitos académicos establecidos, incluyendo:
+
+- Mínimo cinco vistas HTML
+- Uso de hojas de estilo CSS
+- Navegación interna funcional
+- Diseño adaptable a dispositivos móviles
+- Presentación visual moderna y coherente
+
+---
+
+## 🛠 Tecnologías Utilizadas
 
 - HTML5
 - CSS3
-- Diseño Responsive (Media Queries)
+- Flexbox
+- CSS Grid
+- Media Queries (Responsive Design)
 - Animaciones CSS
-- Menú hamburguesa con JavaScript
+- JavaScript básico (menú hamburguesa)
 
-## Estructura del Proyecto
+---
+
+## 🗂 Estructura del Proyecto
 
 FRIX/
 │── index.html
@@ -25,29 +46,27 @@ FRIX/
 │── css/
 │     └── estilos.css
 │── img/
+│── README.md
 
-## Características Principales
+---
 
-- Diseño premium con paleta de colores oscuro + rojo vino
+## ✨ Características Principales
+
+- Identidad visual premium (negro profundo, rojo vino y azul noche)
 - Tipografía moderna (Montserrat y Bebas Neue)
-- Secciones organizadas por categorías
-- Tarjetas de productos con efectos hover
+- Página de productos organizada por categorías
+- Tarjetas con efectos hover y animaciones
 - Galería con efecto zoom
-- Formulario de contacto
-- Navegación responsive con menú hamburguesa
-- Animaciones suaves
+- Formulario de contacto funcional
+- Diseño responsive para dispositivos móviles
+- Menú hamburguesa animado
 
-## Objetivo Académico
+---
 
-Desarrollar una página web funcional que cumpla con los requisitos mínimos de:
-- 5 vistas HTML
-- Uso de CSS para estilos
-- Navegación interna
-- Diseño adaptable a dispositivos móviles
-
-## Autor
+## 👨‍💻 Autor
 
 Proyecto desarrollado por:
-Robinson Estiben Rodríguez Albarracín
 
+Robinson Estiben Rodríguez Albarracín  
+Asignatura: Programación Web  
 Año: 2026
