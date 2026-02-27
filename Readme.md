@@ -35,8 +35,9 @@ cumpliendo con los requisitos académicos establecidos, incluyendo:
 
 ---
 
-##  Estructura del Proyecto
+## Estructura del Proyecto
 
+```
 FRIX/
 │── index.html
 │── nosotros.html
@@ -44,9 +45,10 @@ FRIX/
 │── galeria.html
 │── contacto.html
 │── css/
-│     └── estilos.css
+│   └── estilos.css
 │── img/
 │── README.md
+```
 
 ---
 
