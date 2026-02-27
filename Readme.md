@@ -1,6 +1,6 @@
 # FRIX - Tienda de Ropa Urbana Premium
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 FRIX es una página web desarrollada como proyecto académico para la asignatura de Programación Web. 
 El sitio representa una tienda de ropa urbana premium con identidad moderna, minimalista y deportiva.
@@ -10,7 +10,7 @@ navegación entre múltiples vistas y una estructura organizada por secciones.
 
 ---
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 Diseñar y desarrollar una página web funcional que represente una tienda de ropa urbana, 
 cumpliendo con los requisitos académicos establecidos, incluyendo:
@@ -23,7 +23,7 @@ cumpliendo con los requisitos académicos establecidos, incluyendo:
 
 ---
 
-## 🛠 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - HTML5
 - CSS3
@@ -35,7 +35,7 @@ cumpliendo con los requisitos académicos establecidos, incluyendo:
 
 ---
 
-## 🗂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 FRIX/
 │── index.html
@@ -50,7 +50,7 @@ FRIX/
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 - Identidad visual premium (negro profundo, rojo vino y azul noche)
 - Tipografía moderna (Montserrat y Bebas Neue)
@@ -63,7 +63,7 @@ FRIX/
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Proyecto desarrollado por:
 
